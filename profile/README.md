@@ -1,6 +1,6 @@
 Jump To: 
-* [Citizen App](#COBOL-citizen-application)
-* [Admin Dashboard](#COBOL-admin-dashboard)
+* [Citizen App](#cobol-citizen-application)
+* [Admin Dashboard](#cobol-admin-dashboard)
 
 # COBOL Citizen Application
 
@@ -97,7 +97,7 @@ Gamification:
 
 
 
-# COBOL Admin Dashboard <a name="ad"></a>
+# COBOL Admin Dashboard
 <img width="1872" alt="Screenshot 2024-01-12 alle 11 24 19" src="https://github.com/coboldsd/.github/assets/61592394/96ffe9fa-db08-47ac-8526-ae81253ac199">
 
 
