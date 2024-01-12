@@ -1,4 +1,12 @@
-Jump To: 
+The following contains screenshots of the final delivered product for the COBOL Project.
+
+We provide the following links to access the deployment:
+* [Citizen Application](http://131.175.120.137/)
+* [Admin Dashboard](http://131.175.120.137/admin_dashboard)
+* [API Documentation](http://131.175.120.137/docs)
+
+
+Jump To Screenshots: 
 * [Citizen App](#cobol-citizen-application)
 * [Admin Dashboard](#cobol-admin-dashboard)
 
